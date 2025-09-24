@@ -1,0 +1,13 @@
+설치방법
+1.vscode제거
+2.vscode 다운로드 및 체크
+확장 프로그램 다운로드:korea,Live server,one dark,figma vscode
+vscode-icons -> 기본값 seti -> vscode icons
+내 컴퓨터 > 로컬디스크D: > 이름폴더
+서버(server)컴퓨터 -> github(깃허브) ->jfs폴더 ->readme.md
+클라이언트 컴퓨터
+github-> 저장소(레퍼지토리)->파일/폴더 저장공간 확보
+->https://github.com/
+git -> 제어 & 깃허브에 자료를 업로드/다운로드
+CLI 마우스대신 키보드로 입력
+ 
